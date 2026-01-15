@@ -1,6 +1,6 @@
 <img width="1017" height="899" alt="Image" src="https://github.com/user-attachments/assets/ab46d671-8b39-4521-af58-5c0b59443bfa" />
 
-## Understanding Network Security & Basic Traffic Monitoring
+
 
 ## Project Overview
 This project focuses on understanding the fundamentals of network security and basic network traffic monitoring. The objective is to learn how data travels across networks, identify common network protocols, and analyze packet-level information using safe and legal tools without performing any malicious activities.
