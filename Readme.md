@@ -48,5 +48,5 @@ This project focuses on understanding the fundamentals of network security and b
 ## Conclusion
 This task provided foundational knowledge of network security and traffic monitoring. By analyzing real network packets in a controlled and ethical manner, the project strengthens the understanding required for advanced cybersecurity concepts and real-world security analysis.
 
-## ✍️ Author
+## Author
 Sudhir Bhat  
