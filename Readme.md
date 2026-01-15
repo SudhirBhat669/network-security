@@ -1,4 +1,4 @@
-
+<img width="1017" height="899" alt="Image" src="https://github.com/user-attachments/assets/ab46d671-8b39-4521-af58-5c0b59443bfa" />
 
 ## Understanding Network Security & Basic Traffic Monitoring
 
